@@ -1,0 +1,180 @@
+ 2020  1 1  0 2  3.0 L  33.561  52.398 12.3       7 0.0 2.2W                   1
+ GAP=                    267.5   233.5  0.2                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000203     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ CBZA  Z  P   0    0 2 16.21                                        10          
+ CBZA  N  S   0    0 2 26.11                                        10          
+ AVTK  Z  P   0    0 2 19.14                                        10          
+ AVTK  N  S   0    0 2 31.24                                        10          
+ DQYH  Z  P   0    0 2 26.54                                        10          
+ DQYH  N  S   0    0 2 44.19                                        10          
+ RAWC  Z  P   0    0 2 27.52                                        10          
+ RAWC  N  S   0    0 2 45.92                                        10          
+ MGUS  Z  P   0    0 2 27.99                                        10          
+ MGUS  N  S   0    0 2 46.72                                        10          
+ APSL  Z  P   0    0 2 29.43                                        10          
+ APSL  N  S   0    0 2 49.12                                        10          
+ HLUH  Z  P   0    0 2 37.06                                        10          
+ HLUH  N  S   0    0 3  1.50                                        10          
+                                                                                
+
+ 2020  1 1  0 4  6.0 L  33.551  52.436 12.8       7 0.0 4.3W                   1
+ GAP=                    268.3   231.2  0.2                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000406     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW  Z  P   0    0 4 23.97                                        10          
+ RHPW  N  S   0    0 4 37.45                                        10          
+ DQYH  Z  P   0    0 4 29.87                                        10          
+ DQYH  N  S   0    0 4 47.77                                        10          
+ DNOA  Z  P   0    0 4 30.04                                        10          
+ DNOA  N  S   0    0 4 48.01                                        10          
+ MGUS  Z  P   0    0 4 30.40                                        10          
+ MGUS  N  S   0    0 4 48.69                                        10          
+ FOUH  Z  P   0    0 4 32.87                                        10          
+ FOUH  N  S   0    0 4 53.01                                        10          
+ APSL  Z  P   0    0 4 31.93                                        10          
+ APSL  N  S   0    0 4 51.32                                        10          
+ HLUH  Z  P   0    0 4 40.29                                        10          
+ HLUH  N  S   0    0 5  4.87                                        10          
+                                                                                
+
+ 2020  1 1  014 20.9 L  33.899  52.764 19.5       7 0.0 2.0W                   1
+ GAP=                   1238.3   357.4  0.7                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001420     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW  Z  P   0    014 29.91                                        10          
+ RHPW  N  S   0    014 36.60                                        10          
+ XBVK  Z  P   0    014 33.19                                        10          
+ XBVK  N  S   0    014 42.33                                        10          
+ LUEX  Z  P   0    014 36.56                                        10          
+ LUEX  N  S   0    014 48.23                                        10          
+ AVTK  Z  P   0    014 38.50                                        10          
+ AVTK  N  S   0    014 51.62                                        10          
+ MGUS  Z  P   0    014 39.72                                        10          
+ MGUS  N  S   0    014 53.75                                        10          
+ RAWC  Z  P   0    014 41.31                                        10          
+ RAWC  N  S   0    014 56.53                                        10          
+ HLUH  Z  P   0    014 51.94                                        10          
+ HLUH  N  S   0    015 14.25                                        10          
+                                                                                
+
+ 2020  1 1  016 24.7 L  34.009  52.691 13.1       7 0.0 2.3W                   1
+ GAP=                    331.7   271.8  0.4                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001624     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ XBVK  Z  P   0    016 34.03                                        10          
+ XBVK  N  S   0    016 41.55                                        10          
+ LUEX  Z  P   0    016 39.35                                        10          
+ LUEX  N  S   0    016 50.85                                        10          
+ DNOA  Z  P   0    016 40.76                                        10          
+ DNOA  N  S   0    016 53.34                                        10          
+ FOUH  Z  P   0    016 43.35                                        10          
+ FOUH  N  S   0    016 57.89                                        10          
+ APSL  Z  P   0    016 44.49                                        10          
+ APSL  N  S   0    016 59.85                                        10          
+ VOCA  Z  P   0    016 45.21                                        10          
+ VOCA  N  S   0    017  1.12                                        10          
+ HLUH  Z  P   0    016 54.37                                        10          
+ HLUH  N  S   0    017 16.56                                        10          
+                                                                                
+
+ 2020  1 1  020 30.1 L  33.799  52.550 11.9       7 0.0 3.7W                   1
+ GAP=                    322.5   342.2  0.4                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002030     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW  Z  P   0    020 42.77                                        10          
+ RHPW  N  S   0    020 52.35                                        10          
+ LUEX  Z  P   0    020 42.74                                        10          
+ LUEX  N  S   0    020 52.30                                        10          
+ CBZA  Z  P   0    020 46.01                                        10          
+ CBZA  N  S   0    020 58.03                                        10          
+ DNOA  Z  P   0    020 50.70                                        10          
+ DNOA  N  S   0    021  6.23                                        10          
+ APSL  Z  P   0    020 53.24                                        10          
+ APSL  N  S   0    021 10.68                                        10          
+ RPKV  Z  P   0    021  0.70                                        10          
+ RPKV  N  S   0    021 23.17                                        10          
+ QYDI  Z  P   0    021  1.19                                        10          
+ QYDI  N  S   0    021 23.68                                        10          
+                                                                                
+
+ 2020  1 1  026 38.9 L  33.783  52.517 12.2       7 0.0 2.5W                   1
+ GAP=                    307.0   363.0  0.2                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002638     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW  Z  P   0    026 52.45                                        10          
+ RHPW  N  S   0    027  2.54                                        10          
+ XBVK  Z  P   0    026 54.37                                        10          
+ XBVK  N  S   0    027  5.91                                        10          
+ DNOA  Z  P   0    027  0.21                                        10          
+ DNOA  N  S   0    027 16.12                                        10          
+ MGUS  Z  P   0    027  1.82                                        10          
+ MGUS  N  S   0    027 18.93                                        10          
+ RPKV  Z  P   0    027  9.65                                        10          
+ RPKV  N  S   0    027 32.11                                        10          
+ QYDI  Z  P   0    027 10.31                                        10          
+ QYDI  N  S   0    027 32.93                                        10          
+ HLUH  Z  P   0    027 10.79                                        10          
+ HLUH  N  S   0    027 33.93                                        10          
+                                                                                
+
+ 2020  1 1  030 45.2 L  33.831  52.648 16.1       7 0.0 0.8W                   1
+ GAP=                    938.1   544.8  0.3                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003045     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX  Z  P   0    030 58.79                                        10          
+ LUEX  N  S   0    031  9.14                                        10          
+ CBZA  Z  P   0    031  2.28                                        10          
+ CBZA  N  S   0    031 15.25                                        10          
+ DQYH  Z  P   0    031  6.43                                        10          
+ DQYH  N  S   0    031 22.50                                        10          
+ FOUH  Z  P   0    031  6.84                                        10          
+ FOUH  N  S   0    031 23.26                                        10          
+ APSL  Z  P   0    031  6.15                                        10          
+ APSL  N  S   0    031 22.02                                        10          
+ RPKV  Z  P   0    031 15.19                                        10          
+ RPKV  N  S   0    031 37.17                                        10          
+ HLUH  Z  P   0    031 16.51                                        10          
+ HLUH  N  S   0    031 39.36                                        10          
+                                                                                
+
+ 2020  1 1  032 47.9 L  33.903  52.674 15.1       7 0.0 3.7W                   1
+ GAP=                    713.1   323.9  0.4                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003247     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX  Z  P   0    033  2.37                                        10          
+ LUEX  N  S   0    033 13.15                                        10          
+ DNOA  Z  P   0    033  5.66                                        10          
+ DNOA  N  S   0    033 18.90                                        10          
+ CBZA  Z  P   0    033  6.26                                        10          
+ CBZA  N  S   0    033 19.96                                        10          
+ FOUH  Z  P   0    033  8.72                                        10          
+ FOUH  N  S   0    033 24.29                                        10          
+ MGUS  Z  P   0    033  8.53                                        10          
+ MGUS  N  S   0    033 23.93                                        10          
+ APSL  Z  P   0    033  8.63                                        10          
+ APSL  N  S   0    033 24.10                                        10          
+ RAWC  Z  P   0    033 10.07                                        10          
+ RAWC  N  S   0    033 26.63                                        10          
+                                                                                
+
+ 2020  1 1  036 54.1 L  33.965  52.708 15.5       7 0.0 1.1W                   1
+ GAP=                    365.9   252.4  0.4                                    E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003654     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW  Z  P   0    037  2.01                                        10          
+ RHPW  N  S   0    037  8.02                                        10          
+ XBVK  Z  P   0    037  4.90                                        10          
+ XBVK  N  S   0    037 13.07                                        10          
+ LUEX  Z  P   0    037  9.07                                        10          
+ LUEX  N  S   0    037 20.38                                        10          
+ CBZA  Z  P   0    037 13.25                                        10          
+ CBZA  N  S   0    037 27.69                                        10          
+ VOCA  Z  P   0    037 15.09                                        10          
+ VOCA  N  S   0    037 30.91                                        10          
+ RPKV  Z  P   0    037 22.94                                        10          
+ RPKV  N  S   0    037 44.07                                        10          
+ QYDI  Z  P   0    037 22.66                                        10          
+ QYDI  N  S   0    037 43.45                                        10          
+                                                                                
+

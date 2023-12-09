@@ -1,0 +1,221 @@
+---
+#============================ Define Study Region
+StudyArea:
+  lat: 34.50 # central latitude of the study area in degree
+  lon: 52.50 # central longitude of the study area in degree
+  radius: 250 # radius of the study area in km
+#============================ Travel Time Generator
+Model:
+  reset: true # generate velocity model fom scratch
+  rndID: 0 # change it to get different model each time
+  dx: 4.0 # node spacing of the velocity model in x
+  dy: 4.0 # node spacing of the velocity model in y
+  dz: 1.0 # node spacing of the velocity model in z
+  nx: 64 # number of nodes in x direction
+  ny: 64 # number of nodes in x direction
+  nz: 64  # number of nodes in z direction
+  vp0: 3.5 # P velocity in shallowest layer
+  vDepthCC: 0.1 # velocity correlation rate between velocity and Depth
+  vPertCoef: 4 # background noise will be added to velocity
+  vGamma: 1 # blurring velocity ratio
+  vAnomalyGamma: 2 # blurring anomalies ratio
+  anomaliesPos: [[16, 48, 16, 48, 10, 15]] # position of user-defined anomalies
+  anomaliesPert: [-2.0] # perturbation of user-defined anomalies
+  showAnomalyID: 1 # cross section will be passed through this anomaly
+  vpLimits: [3.0, 8.0] # limits for Vp amplitudes
+  vsLimits: [1.5, 5.0] # limits for Vp amplitudes
+  vpvs: 1.75 # Vp to Vs ratio
+#============================ Full Synthetic Scenario (FSS)
+FSS:
+  flag: true # enable full synthetic scenario
+  reset: true # generate catalog from scratch
+  Stations:
+    rndID: 3 # change it to get different stations each time
+    dx: 0 # central point of network relative to StudyArea in x
+    dy: 0 # central point of network relative to StudyArea in y
+    radius: 150 # stations will be distributed within this radius in km
+    shapeOfDist: "g" # stations distribution c: circle, r: rectangle, g: grid
+    noOfStations: 15 # number of seismic stations
+    minSpacing: 10 # km, activated if "shapeOfDist"="g"
+    resetNoiseModel: true # generate noise model from scratch
+  #+++ Define catalog(s) of events
+  Catalog:
+    rndID: 1 # change it to get different catalog(s) each time
+    date: 2020-01-01 # starting date of the first event in catalog
+    dt: 123 # time delay between two adjacent events
+    pickingErrorMax: 1.5 # maximum timing error allowed for a P phase
+    minPphasePercentage: 50 # minimum percentage of used P phases for catalog
+    maxPphasePercentage: 50 # maximum percentage of used P phases for catalog
+    minSphasePercentage: 50 # minimum percentage of used S phases for catalog
+    maxSphasePercentage: 50 # maximum percentage of used S, relative to maxPphasePercentage
+    Faults:
+        -
+            rndID: 0
+            name: "C-01" # cluster name
+            noEvents: 20 # number of events in this catalog
+            minEventSpacing: 4.0 # minimum event spacing in km
+            dx: 10 # shift the catalog relative to x center of StudyArea
+            dy: -80 # shift the catalog relative to y center of StudyArea
+            width: 25 # width of the assumed fault
+            length: 40 # length of the assumed fault
+            depth: 15 # depth of the assumed fault
+            strike: 30 # fault strike
+            dip: 25 # fault dip
+        # -
+        #     rndID: 1
+        #     name: "C-02" # cluster name
+        #     noEvents: 500 # number of events in this catalog
+        #     minEventSpacing: 2.0 # minimum event spacing in km
+        #     dx: 25 # shift the catalog relative to x center of StudyArea
+        #     dy: -10 # shift the catalog relative to y center of StudyArea
+        #     width: 20 # width of the assumed fault
+        #     length: 40 # length of the assumed fault
+        #     depth: 15 # depth of the assumed fault
+        #     strike: 10 # fault strike
+        #     dip: 20 # fault dip
+        # -
+        #     rndID: 1
+        #     name: "C-03" # cluster name
+        #     noEvents: 500 # number of events in this catalog
+        #     minEventSpacing: 3.0 # minimum event spacing in km
+        #     dx: 50 # shift the catalog relative to x center of StudyArea
+        #     dy: 60 # shift the catalog relative to y center of StudyArea
+        #     width: 20 # width of the assumed fault
+        #     length: 40 # length of the assumed fault
+        #     depth: 17 # depth of the assumed fault
+        #     strike: 25 # fault strike
+        #     dip: 30 # fault dip
+        # -
+        #     rndID: 0
+        #     name: "C-01" # cluster name
+        #     noEvents: 100 # number of events in this catalog
+        #     minEventSpacing: 4.0 # minimum event spacing in km
+        #     dx: -60 # shift the catalog relative to x center of StudyArea
+        #     dy: -40 # shift the catalog relative to y center of StudyArea
+        #     width: 15 # width of the assumed fault
+        #     length: 25 # length of the assumed fault
+        #     depth: 15 # depth of the assumed fault
+        #     strike: 90 # fault strike
+        #     dip: 20 # fault dip
+        # -
+        #     rndID: 1
+        #     name: "C-02"
+        #     noEvents: 100 # number of events in this catalog
+        #     minEventSpacing: 4.0 # minimum event spacing in km
+        #     dx: 10 # shift the catalog relative to x center of StudyArea
+        #     dy: -90 # shift the catalog relative to y center of StudyArea
+        #     width: 15 # width of the assumed fault
+        #     length: 25 # length of the assumed fault
+        #     depth: 12 # depth of the assumed fault
+        #     strike: 60 # fault strike
+        #     dip: 35 # fault dip
+        # -
+        #     rndID: 2
+        #     name: "C-03"
+        #     noEvents: 100
+        #     minEventSpacing: 4.0
+        #     dx: 65
+        #     dy: -25
+        #     width: 15
+        #     length: 25
+        #     depth: 17
+        #     strike: 30
+        #     dip: 30
+        # -
+        #     rndID: 3
+        #     name: "C-04"
+        #     noEvents: 100
+        #     minEventSpacing: 4.0
+        #     dx: -15
+        #     dy: 60
+        #     width: 15
+        #     length: 25
+        #     depth: 15
+        #     strike: -40
+        #     dip: 40
+        # -
+        #     rndID: 4
+        #     name: "C-05"
+        #     noEvents: 100
+        #     minEventSpacing: 4.0
+        #     dx: 80
+        #     dy: 50
+        #     width: 15
+        #     length: 25
+        #     depth: 12
+        #     strike: -40
+        #     dip: 25
+#============================ Real-Case Synthetic Scenario (RSS)
+RSS:
+  flag: false # enable real-case synthetic scenario, will be disabled if FSS=true
+  #+++ the following files are required to be present on 'simulate' directory
+  Inputs:
+    velocityFile: "simulate/velocity.dat"
+    stationFile: "simulate/stations.dat"
+    catalogFile: "simulate/catalog_unw.out"
+#============================ ForwardPass Settings (FPS)
+FPS:
+  VelocityModel:
+    rndID: 0 #  change it to get different velocity model each time
+    numberOfLayers: 5 # number of layers in velocity model
+    choseVelocityLayers: "e" # r: randomly, e: equally spaced, g: gradient
+#============================ Relocation Settings (RLS)
+RLS:
+  Empty: 0
+#============================ Figure Settings (FGS)
+FGS:
+  DepthMin: 0 # minimum depth to plot in depth figure
+  DepthMax: 35 # maximum depth to plot in depth figure
+  RMSMin: 0 # minimum RMS to plot in RMS figure
+  RMSMax: 1.5 # maximum RMS to plot in RMS figure
+  GAPMin: 50 # minimum GAP to plot in GAP figure
+  GAPMax: 300 # maximum GAP to plot in GAP figure
+  SeismicityMapZMax: 40
+  HistERHMax: 15 # maximum ERH to plot in ERH histogram
+  HistERHInc: 1 # increment of ERH in ERH histogram
+  HistERZMax: 15 # maximum ERZ to plot in ERZ histogram
+  HistERZInc: 1 # increment of ERH in ERH histogram
+  HistInsetERHMin: -10 # minimum of ERH in ERH histogram
+  HistInsetERHMax: 10
+  HistInsetERHInc: 1
+  HistInsetERZMin: -10
+  HistInsetERZMax: 10
+  HistInsetERZInc: 1
+  ColorbarGAPMin: 50
+  ColorbarGAPMax: 360
+  ColorbarMDSMin: 0
+  ColorbarMDSMax: 50
+  ColorbarNusMin: 3
+  ColorbarNusMax: 15
+  CommonEventThrT: 5.0
+  CommonEventThrD: 20.0
+  CommonEventThrM: 0.5
+  noiseMax: 2.5
+#============================ Report Settings (RPS)
+RPS:
+  #+++ You can add different classes as much as you want here!
+  Classes:
+    A:
+      ERH: 2
+      ERZ: 5
+      GAP: 150
+      RMS: 0.1
+      MDS: 10
+      NuP: 6
+      NuS: 2
+    B:
+      ERH: 5
+      ERZ: 10
+      GAP: 200
+      RMS: 0.3
+      MDS: 10
+      NuP: 5
+      NuS: 1
+    C:
+      ERH: 5
+      ERZ: 10
+      GAP: 250
+      RMS: 0.5
+      MDS: 15
+      NuP: 4
+      NuS: 1

@@ -1,0 +1,520 @@
+ 2019 1231 2359 59.7 L  33.841  52.399 13.1  New  7 0.9 4.1LNew                1
+ GAP=217        2.16       6.2     6.9  9.0  0.2505E+02 -0.1315E+02 -0.7748E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000000     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ XBVK    IP   0A  24 0 14.88                              56    0.2110 60.3  26 
+ XBVK     IAML A  24 0 14.88     13415.6                               60.3  26 
+ XBVK    ES   0A  24 0 26.04                              56    0.6110 60.3  26 
+ DQYH    IP   0A  24 0 20.68                              45    0.7710 88.5 327 
+ DQYH     IAML A  24 0 20.68      7353.0                               88.5 327 
+ DQYH    ES   0A  24 0 36.19                              45    1.7510 88.5 327 
+ MGUS    IP   0A  24 0 25.83                              38    0.0310  126  92 
+ MGUS     IAML A  24 0 25.83      4168.3                                126  92 
+ MGUS    ES   0A  24 0 45.21                              38    0.6310  126  92 
+ RAWC     IAML A  24 0 26.82      3689.5                                135 110 
+ RAWC    IP   0A  24 0 26.82                              38   -0.2410  135 110 
+ RAWC    ES   0A  24 0 46.94                              38    0.1910  135 110 
+ VOCA    IP   0A  24 0 26.95                              38   -0.4910  137  47 
+ VOCA     IAML A  24 0 26.95      3701.4                                137  47 
+ VOCA    ES   0A  24 0 47.16                              38   -0.2310  137  47 
+ QYDI    IP   0A  24 0 31.77                              38   -1.07 8  174 358 
+ QYDI    ES   0A  24 0 54.97                              38   -1.71 8  174 358 
+ HLUH    IP   0A  24 0 32.03                              38   -0.88 8  174 332 
+ HLUH    ES   0A  24 0 55.51                              38   -1.29 8  174 332 
+ QYDI     IAML A  24 0 31.77      2415.1                                174 358 
+ HLUH     IAML A  24 0 32.03      2375.1                                174 332 
+                                                                                
+ 2020  1 1 0002  2.2 L  33.573  52.407 17.3  New  7 1.0 2.2LNew                1
+ GAP=177        2.23      15.7    10.0 20.4  0.1350E+03 -0.1842E+03 -0.2757E+03E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000203     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ CBZA    IP   0A   0 2 16.21                              92   -0.0610 58.0 274 
+ CBZA     IAML A   0 2 16.21       186.2                               58.0 274 
+ CBZA    ES   0A   0 2 26.11                              92   -0.3110 58.0 274 
+ AVTK    IP   0A   0 2 19.14                              58    0.2010 72.0 317 
+ AVTK     IAML A   0 2 19.14       134.4                               72.0 317 
+ AVTK    ES   0A   0 2 31.24                              58    0.2210 72.0 317 
+ DQYH    IP   0A   0 2 26.54                              49    0.7410  115 335 
+ DQYH     IAML A   0 2 26.54        66.5                                115 335 
+ DQYH    ES   0A   0 2 44.19                              49    1.3810  115 335 
+ RAWC    IP   0A   0 2 27.52                              49   -0.1310  127  97 
+ RAWC     IAML A   0 2 27.52        56.8                                127  97 
+ RAWC    ES   0A   0 2 45.92                              49   -0.0910  127  97 
+ MGUS     IAML A   0 2 27.99        56.0                                128  79 
+ MGUS    IP   0A   0 2 27.99                              49    0.2410  128  79 
+ MGUS    ES   0A   0 2 46.72                              49    0.5510  128  79 
+ APSL     IAML A   0 2 29.43        47.6                                140  63 
+ APSL    IP   0A   0 2 29.43                              49   -0.1910  140  63 
+ APSL    ES   0A   0 2 49.12                              49   -0.2810  140  63 
+ HLUH     IAML A   0 2 37.06        24.6                                201 336 
+ HLUH    IP   0A   0 2 37.06                              49   -1.60 7  201 336 
+ HLUH    ES   0A   0 3  1.50                              49   -3.44 7  201 336 
+                                                                                
+ 2020  1 1 0004  5.1 L  33.460  52.395 28.0  New  7 1.1 4.3LNew                1
+ GAP=264        2.39      21.5    12.9 43.4  0.2167E+03 -0.4034E+03 -0.7704E+03E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000406     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   0 4 23.97                              62    0.4310 87.8  30 
+ RHPW     IAML A   0 4 23.97     12968.5                               87.8  30 
+ RHPW    ES   0A   0 4 37.45                              62    0.6410 87.8  30 
+ DQYH     IAML A   0 4 29.87      6808.1                                126 338 
+ DQYH    IP   0A   0 4 29.87                              62    0.6710  126 338 
+ DQYH    ES   0A   0 4 47.77                              62    1.2310  126 338 
+ MGUS    IP   0A   0 4 30.40                              62    0.3010  132  74 
+ MGUS     IAML A   0 4 30.40      6092.3                                132  74 
+ MGUS    ES   0A   0 4 48.69                              62    0.6110  132  74 
+ DNOA     IAML A   0 4 30.04      6243.6                                134  44 
+ DNOA    IP   0A   0 4 30.04                              62   -0.3510  134  44 
+ DNOA    ES   0A   0 4 48.01                              62   -0.5810  134  44 
+ APSL    IP   0A   0 4 31.93                              62   -0.50 9  148  59 
+ APSL     IAML A   0 4 31.93      5135.6                                148  59 
+ APSL    ES   0A   0 4 51.32                              62   -0.78 9  148  59 
+ FOUH     IAML A   0 4 32.87      5161.7                                150  13 
+ FOUH    IP   0A   0 4 32.87                              62    0.09 9  150  13 
+ FOUH    ES   0A   0 4 53.01                              62    0.31 9  150  13 
+ HLUH     IAML A   0 4 40.29      2540.1                                212 338 
+ HLUH    IP   0A   0 4 40.29                              62   -1.79 6  212 338 
+ HLUH    ES   0A   0 5  4.87                              62   -3.83 6  212 338 
+                                                                                
+ 2020  1 1 0006  8.1 L  34.038  52.827 21.6  New  7 0.3 1.1LNew                1
+ GAP=116        0.88       2.4     1.5  5.0  0.1873E+00 -0.1236E+01 -0.2228E+00E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000609     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX    IP   0A   0 6 26.02                              58    0.0110 81.3 257 
+ LUEX     IAML A   0 6 26.02         7.2                               81.3 257 
+ LUEX    ES   0A   0 6 38.79                              58   -0.1010 81.3 257 
+ AVTK    IP   0A   0 6 27.01                              58   -0.0610 87.6 271 
+ AVTK     IAML A   0 6 27.01         6.5                               87.6 271 
+ AVTK    ES   0A   0 6 40.52                              58   -0.2010 87.6 271 
+ MGUS    IP   0A   0 6 27.90                              49    0.2810 90.9 108 
+ MGUS     IAML A   0 6 27.90         6.1                               90.9 108 
+ MGUS    ES   0A   0 6 42.07                              49    0.3910 90.9 108 
+ VOCA    IP   0A   0 6 27.82                              49   -0.2710 94.1  41 
+ VOCA     IAML A   0 6 27.82         6.0                               94.1  41 
+ VOCA    ES   0A   0 6 41.93                              49   -0.5610 94.1  41 
+ DQYH     IAML A   0 6 29.72         5.3                                102 301 
+ DQYH    IP   0A   0 6 29.72                              49    0.4110  102 301 
+ DQYH    ES   0A   0 6 45.26                              49    0.6810  102 301 
+ CBZA     IAML A   0 6 29.94         4.7                                108 244 
+ CBZA    IP   0A   0 6 29.94                              49   -0.1810  108 244 
+ CBZA    ES   0A   0 6 45.64                              49   -0.3310  108 244 
+ RAWC     IAML A   0 6 30.49         4.5                                110 128 
+ RAWC    IP   0A   0 6 30.49                              49   -0.0210  110 128 
+ RAWC    ES   0A   0 6 46.61                              49   -0.0410  110 128 
+                                                                                
+ 2020  1 1 0008 10.4 L  33.950  52.560  3.0  New  7 0.4 1.7LNew                1
+ GAP=130        0.96       2.0     2.2  2.5 -0.1919E+01 -0.2347E+01  0.3218E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101000812     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ XBVK    IP   0A   0 8 22.43                              94    0.1410 43.6  16 
+ XBVK     IAML A   0 8 22.43        98.1                               43.6  16 
+ XBVK    ES   0A   0 8 30.25                              94   -0.5810 43.6  16 
+ CBZA    IP   0A   0 8 31.26                              47    0.1110 81.3 242 
+ CBZA     IAML A   0 8 31.26        35.0                               81.3 242 
+ CBZA    ES   0A   0 8 45.70                              47   -0.3810 81.3 242 
+ DNOA     IAML A   0 8 32.87        31.8                               88.3  62 
+ DNOA    IP   0A   0 8 32.87                              38    0.3610 88.3  62 
+ DNOA    ES   0A   0 8 48.53                              38    0.1110 88.3  62 
+ FOUH     IAML A   0 8 33.83        31.6                               93.4  12 
+ FOUH    IP   0A   0 8 33.83                              38    0.4510 93.4  12 
+ FOUH    ES   0A   0 8 50.22                              38    0.3010 93.4  12 
+ MGUS     IAML A   0 8 36.94        20.6                                113  99 
+ APSL     IAML A   0 8 36.44        21.1                                113  79 
+ MGUS    IP   0A   0 8 36.94                              33    0.3710  113  99 
+ MGUS    ES   0A   0 8 55.64                              33    0.2410  113  99 
+ APSL    IP   0A   0 8 36.44                              33   -0.1710  113  79 
+ APSL    ES   0A   0 8 54.77                              33   -0.7110  113  79 
+ RAWC     IAML A   0 8 38.58        16.9                                126 117 
+ RAWC    IP   0A   0 8 38.58                              33    0.0410  126 117 
+ RAWC    ES   0A   0 8 58.51                              33   -0.2810  126 117 
+                                                                                
+ 2020  1 1 0010 14.7 L  33.945  52.727 51.3  New  7 0.3 2.3LNew                1
+ GAP=191        0.76       2.9     2.4  4.4 -0.4432E+01  0.3226E+01 -0.3138E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001015     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   010 25.59                             147   -0.1810 25.9  30 
+ RHPW     IAML A   010 25.59       330.7                               25.9  30 
+ RHPW    ES   0A   010 33.54                             147   -0.1710 25.9  30 
+ LUEX    IP   0A   010 31.11                             115    0.1810 70.5 264 
+ LUEX     IAML A   010 31.11       125.2                               70.5 264 
+ LUEX    ES   0A   010 43.19                             115    0.6010 70.5 264 
+ DNOA    IP   0A   010 31.40                             113   -0.1910 75.3  56 
+ DNOA     IAML A   010 31.40       121.7                               75.3  56 
+ DNOA    ES   0A   010 43.70                             113   -0.0310 75.3  56 
+ CBZA    IP   0A   010 34.04                             107   -0.3110 95.0 247 
+ CBZA     IAML A   010 34.04        89.7                               95.0 247 
+ CBZA    ES   0A   010 48.33                             107   -0.1510 95.0 247 
+ VOCA     IAML A   010 36.22        68.6                                108  41 
+ VOCA    IP   0A   010 36.22                             104    0.0210  108  41 
+ VOCA    ES   0A   010 52.14                             104    0.4810  108  41 
+ QYDI     IAML A   010 44.94        30.9                                166 347 
+ QYDI    IP   0A   010 44.94                              98    0.23 8  166 347 
+ QYDI    ES   0A   011  6.24                              98   -0.05 8  166 347 
+ HLUH     IAML A   010 46.74        26.6                                181 322 
+ HLUH    IP   0A   010 46.74                              98   -0.13 8  181 322 
+ HLUH    ES   0A   011  9.48                              98   -0.53 8  181 322 
+                                                                                
+ 2020  1 1 0012 17.3 L  33.639  52.554 11.8  New  7 0.7 2.6LNew                1
+ GAP=214        1.70      12.8     5.1 10.5  0.5053E+02 -0.3887E+02 -0.9853E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001218     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX    IP   0A   012 32.22                              56   -0.1910 60.1 296 
+ LUEX     IAML A   012 32.22       390.4                               60.1 296 
+ LUEX    ES   0A   012 42.88                              56   -0.4010 60.1 296 
+ AVTK    IP   0A   012 36.07                              56    0.2210 77.4 306 
+ AVTK     IAML A   012 36.07       267.9                               77.4 306 
+ AVTK    ES   0A   012 49.63                              56    0.4510 77.4 306 
+ MGUS    IP   0A   012 41.45                              38   -0.2410  113  81 
+ MGUS     IAML A   012 41.45       154.4                                113  81 
+ MGUS    ES   0A   012 59.03                              38   -0.2110  113  81 
+ DQYH    IP   0A   012 42.45                              38    0.4710  115 327 
+ DQYH     IAML A   012 42.45       142.1                                115 327 
+ DQYH    ES   0A   013  0.77                              38    1.0410  115 327 
+ APSL     IAML A   012 43.58       124.2                                125  63 
+ APSL    IP   0A   012 43.58                              38    0.1210  125  63 
+ APSL    ES   0A   013  2.73                              38    0.4610  125  63 
+ VOCA     IAML A   012 46.50        93.6                                144  37 
+ VOCA    IP   0A   012 46.50                              38    0.1410  144  37 
+ VOCA    ES   0A   013  7.23                              38   -0.0410  144  37 
+ RPKV     IAML A   012 51.98        61.2                                189 338 
+ RPKV    IP   0A   012 51.98                              38   -1.03 7  189 338 
+ RPKV    ES   0A   013 16.37                              38   -2.33 7  189 338 
+                                                                                
+ 2020  1 1 0014 20.2 L  33.946  52.775 45.4  New  7 0.8 2.1LNew                1
+ GAP=142        1.94       7.4     4.6 13.0  0.1599E+02  0.1837E+02  0.5907E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001421     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   014 29.91                             144   -0.4610 23.9  20 
+ RHPW     IAML A   014 29.91       225.0                               23.9  20 
+ RHPW    ES   0A   014 36.60                             144   -1.0810 23.9  20 
+ XBVK    IP   0A   014 33.19                             124    0.7610 43.1 349 
+ XBVK     IAML A   014 33.19       119.7                               43.1 349 
+ XBVK    ES   0A   014 42.33                             124    1.1210 43.1 349 
+ LUEX    IP   0A   014 36.56                             107   -0.1710 74.9 264 
+ LUEX     IAML A   014 36.56        67.7                               74.9 264 
+ LUEX    ES   0A   014 48.23                             107   -0.3810 74.9 264 
+ AVTK    IP   0A   014 38.50                             105    0.5210 83.6 278 
+ AVTK     IAML A   014 38.50        56.2                               83.6 278 
+ AVTK    ES   0A   014 51.62                             105    0.8610 83.6 278 
+ MGUS     IAML A   014 39.72        47.8                               93.1 101 
+ MGUS    IP   0A   014 39.72                             103    0.3710 93.1 101 
+ MGUS    ES   0A   014 53.75                             103    0.6410 93.1 101 
+ RAWC     IAML A   014 41.31        38.9                                108 122 
+ RAWC    IP   0A   014 41.31                             100   -0.2810  108 122 
+ RAWC    ES   0A   014 56.53                             100   -0.4410  108 122 
+ HLUH     IAML A   014 51.94        14.6                                183 321 
+ HLUH    IP   0A   014 51.94                              95   -0.73 8  183 321 
+ HLUH    ES   0A   015 14.25                              95   -1.78 8  183 321 
+                                                                                
+ 2020  1 1 0016 23.8 L  33.982  52.679 22.6  New  7 0.8 2.3LNew                1
+ GAP=180        1.97       5.7     4.4  6.2 -0.7621E+01 -0.7415E+01  0.1504E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001624     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ XBVK    IP   0A   016 34.03                             108   -0.1410 38.3   1 
+ XBVK     IAML A   016 34.03       397.0                               38.3   1 
+ XBVK    ES   0A   016 41.55                             108   -0.1110 38.3   1 
+ LUEX    IP   0A   016 39.35                              58    0.2710 66.7 260 
+ LUEX     IAML A   016 39.35       164.6                               66.7 260 
+ LUEX    ES   0A   016 50.85                              58    0.7310 66.7 260 
+ DNOA    IP   0A   016 40.76                              58   -0.0510 76.9  60 
+ DNOA     IAML A   016 40.76       145.0                               76.9  60 
+ DNOA    ES   0A   016 53.34                              58    0.2510 76.9  60 
+ FOUH    IP   0A   016 43.35                              58    0.6410 88.2   6 
+ FOUH     IAML A   016 43.35       120.1                               88.2   6 
+ FOUH    ES   0A   016 57.89                              58    1.5410 88.2   6 
+ APSL     IAML A   016 44.49        93.6                                102  80 
+ APSL    IP   0A   016 44.49                              49   -0.2410  102  80 
+ APSL    ES   0A   016 59.85                              49    0.0210  102  80 
+ VOCA     IAML A   016 45.21        87.0                                108  44 
+ VOCA    IP   0A   016 45.21                              49   -0.4610  108  44 
+ VOCA    ES   0A   017  1.12                              49   -0.3210  108  44 
+ HLUH     IAML A   016 54.37        37.2                                175 323 
+ HLUH    IP   0A   016 54.37                              49   -1.26 8  175 323 
+ HLUH    ES   0A   017 16.56                              49   -2.02 8  175 323 
+                                                                                
+ 2020  1 1 0018 25.8 L  33.682  52.597 53.9  New  7 0.9 2.3LNew                1
+ GAP=200        2.22       9.3     6.3 25.2 -0.1887E+02 -0.7989E+02 -0.1889E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101001827     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX    IP   0A   018 40.72                             121   -0.3410 61.9 290 
+ LUEX     IAML A   018 40.72       135.7                               61.9 290 
+ LUEX    ES   0A   018 51.01                             121   -1.0310 61.9 290 
+ CBZA    IP   0A   018 43.39                             115    0.4810 75.9 264 
+ CBZA     IAML A   018 43.39        99.8                               75.9 264 
+ CBZA    ES   0A   018 55.69                             115    0.4710 75.9 264 
+ AVTK    IP   0A   018 43.67                             114    0.4710 78.1 302 
+ AVTK     IAML A   018 43.67       100.3                               78.1 302 
+ AVTK    ES   0A   018 56.17                             114    0.4610 78.1 302 
+ DNOA    IP   0A   018 46.78                             107    0.0710  103  46 
+ DNOA     IAML A   018 46.78        72.8                                103  46 
+ DNOA    ES   0A   019  1.62                             107   -0.1310  103  46 
+ APSL     IAML A   018 48.74        57.2                                119  64 
+ APSL    IP   0A   018 48.74                             104   -0.2810  119  64 
+ APSL    ES   0A   019  5.05                             104   -0.6710  119  64 
+ FOUH     IAML A   018 50.34        54.2                                122   8 
+ FOUH    IP   0A   018 50.34                             104    0.9010  122   8 
+ FOUH    ES   0A   019  7.86                             104    1.4210  122   8 
+ HLUH     IAML A   018 59.49        21.9                                198 330 
+ HLUH    IP   0A   018 59.49                              98   -1.12 7  198 330 
+ HLUH    ES   0A   019 22.92                              98   -2.74 7  198 330 
+                                                                                
+ 2020  1 1 0020 30.6 L  33.823  52.499 30.1  New  7 0.5 3.7LNew                1
+ GAP=178        1.35       4.6     3.1  4.8 -0.6862E+01 -0.2749E+01  0.2145E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002030     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   020 42.77                             104   -0.2210 49.4  43 
+ LUEX     IAML A   020 42.74      5367.4                               49.4 277 
+ RHPW     IAML A   020 42.77      6257.6                               49.4  43 
+ LUEX    IP   0A   020 42.74                             104   -0.2510 49.4 277 
+ LUEX    ES   0A   020 52.30                             104    0.3910 49.4 277 
+ RHPW    ES   0A   020 52.35                             104    0.4410 49.4  43 
+ CBZA    IP   0A   020 46.01                              62   -0.2610 70.5 251 
+ CBZA     IAML A   020 46.01      3483.3                               70.5 251 
+ CBZA    ES   0A   020 58.03                              62    0.4810 70.5 251 
+ DNOA    IP   0A   020 50.70                              62   -0.0210  100  56 
+ DNOA     IAML A   020 50.70      2297.6                                100  56 
+ DNOA    ES   0A   021  6.23                              62    1.0210  100  56 
+ APSL     IAML A   020 53.24      1706.5                                122  73 
+ APSL    IP   0A   020 53.24                              62   -0.7010  122  73 
+ APSL    ES   0A   021 10.68                              62   -0.0610  122  73 
+ RPKV     IAML A   021  0.70       889.6                                168 337 
+ RPKV    IP   0A   021  0.70                              62   -0.14 8  168 337 
+ RPKV    ES   0A   021 23.17                              62    0.56 8  168 337 
+ QYDI     IAML A   021  1.19       827.8                                176 355 
+ QYDI    IP   0A   021  1.19                              62   -0.82 8  176 355 
+ QYDI    ES   0A   021 23.68                              62   -0.95 8  176 355 
+                                                                                
+ 2020  1 1 0022 33.6 L  33.706  52.364 27.0  New  7 0.7 1.7LNew                1
+ GAP=156        1.77       5.0     4.0  7.3 -0.4101E+00 -0.1845E+02  0.5627E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002233     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX    IP   0A   022 43.89                             101   -0.5910 41.0 297 
+ LUEX     IAML A   022 43.89        66.6                               41.0 297 
+ LUEX    ES   0A   022 52.06                             101   -0.2610 41.0 297 
+ CBZA    IP   0A   022 46.99                              96    0.1810 54.9 259 
+ CBZA     IAML A   022 46.99        43.9                               54.9 259 
+ CBZA    ES   0A   022 57.49                              96    1.1710 54.9 259 
+ XBVK    IP   0A   022 50.47                              62    0.2610 75.2  23 
+ XBVK     IAML A   022 50.47        35.3                               75.2  23 
+ XBVK    ES   0A   023  3.58                              62    1.4010 75.2  23 
+ MGUS    IP   0A   022 57.97                              62   -0.3810  130  86 
+ MGUS     IAML A   022 57.97        14.8                                130  86 
+ MGUS    ES   0A   023 16.69                              62    0.5110  130  86 
+ RAWC     IAML A   022 58.34        13.9                                134 103 
+ RAWC    IP   0A   022 58.34                              62   -0.5910  134 103 
+ RAWC    ES   0A   023 17.35                              62    0.1710  134 103 
+ APSL     IAML A   022 58.83        13.4                                138  69 
+ APSL    IP   0A   022 58.83                              62   -0.7510  138  69 
+ APSL    ES   0A   023 18.15                              62   -0.1410  138  69 
+ HLUH     IAML A   023  5.81         7.3                                186 335 
+ HLUH    IP   0A   023  5.81                              62   -0.91 7  186 335 
+ HLUH    ES   0A   023 29.71                              62   -0.87 7  186 335 
+                                                                                
+ 2020  1 1 0024 34.6 L  33.631  52.498 60.1  New  7 0.4 0.4LNew                1
+ GAP=187        1.13       5.5     3.4 11.3 -0.8574E+01 -0.2296E+02  0.2112E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002436     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ CBZA     IAML A   024 50.85         1.7                               66.4 268 
+ CBZA    IP   0A   024 50.85                             124   -0.0510 66.4 268 
+ CBZA    ES   0A   025  1.98                             124   -0.6610 66.4 268 
+ RHPW    IP   0A   024 51.37                             123    0.4510 66.6  31 
+ RHPW     IAML A   024 51.37         1.9                               66.6  31 
+ RHPW    ES   0A   025  2.90                             123    0.2210 66.6  31 
+ AVTK    IP   0A   024 52.29                             120    0.4510 73.9 309 
+ AVTK     IAML A   024 52.29         1.5                               73.9 309 
+ AVTK    ES   0A   025  4.50                             120    0.2410 73.9 309 
+ DNOA    IP   0A   024 57.64                             109    0.3710  114  47 
+ DNOA     IAML A   024 57.64         0.8                                114  47 
+ DNOA    ES   0A   025 13.87                             109    0.2810  114  47 
+ MGUS     IAML A   024 58.14         0.8                                118  81 
+ MGUS    IP   0A   024 58.14                             108    0.2110  118  81 
+ MGUS    ES   0A   025 14.74                             108    0.0210  118  81 
+ APSL     IAML A   024 59.59         0.7                                130  64 
+ APSL    IP   0A   024 59.59                             106    0.0110  130  64 
+ APSL    ES   0A   025 17.28                             106   -0.2910  130  64 
+ VOCA     IAML A   025  1.85         0.5                                148  38 
+ VOCA    IP   0A   025  1.85                             104   -0.37 9  148  38 
+ VOCA    ES   0A   025 21.03                             104   -1.08 9  148  38 
+                                                                                
+ 2020  1 1 0026 37.9 L  33.736  52.407 28.2  New  7 0.5 2.6LNew                1
+ GAP=247        1.28       5.6     4.9  6.7  0.1377E+02  0.6246E+01  0.1995E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002639     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   026 52.45                              97    0.0610 62.3  43 
+ RHPW     IAML A   026 52.45       419.9                               62.3  43 
+ RHPW    ES   0A   027  2.54                              97   -0.2710 62.3  43 
+ XBVK    IP   0A   026 54.37                              62    0.6110 70.6  22 
+ XBVK     IAML A   026 54.37       323.2                               70.6  22 
+ XBVK    ES   0A   027  5.91                              62    0.7410 70.6  22 
+ DNOA    IP   0A   027  0.21                              62    0.1510  113  54 
+ DNOA     IAML A   027  0.21       159.8                                113  54 
+ DNOA    ES   0A   027 16.12                              62    0.1210  113  54 
+ MGUS    IP   0A   027  1.82                              62   -0.1410  126  87 
+ MGUS     IAML A   027  1.82       131.2                                126  87 
+ MGUS    ES   0A   027 18.93                              62   -0.3410  126  87 
+ RPKV     IAML A   027  9.65        64.4                                174 341 
+ RPKV    IP   0A   027  9.65                              62    0.45 8  174 341 
+ RPKV    ES   0A   027 32.11                              62    0.38 8  174 341 
+ HLUH    IP   0A   027 10.79                              62    0.02 8  185 334 
+ HLUH    ES   0A   027 33.93                              62   -0.49 8  185 334 
+ QYDI     IAML A   027 10.31        59.4                                185 358 
+ QYDI    IP   0A   027 10.31                              62   -0.52 8  185 358 
+ QYDI    ES   0A   027 32.93                              62   -1.60 8  185 358 
+ HLUH     IAML A   027 10.79        56.8                                185 334 
+                                                                                
+ 2020  1 1 0028 41.6 L  34.085  52.544  5.2  New  7 0.6 5.0LNew                1
+ GAP=160        1.54       3.4     2.3  2.7 -0.2354E+01  0.7804E+00  0.2451E+01E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101002842     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ XBVK    IP   0A   028 49.47                             100   -0.4310 30.0  26 
+ XBVK     IAML A   028 49.47      26.2e4                               30.0  26 
+ XBVK    ES   0A   028 55.08                             100   -0.7910 30.0  26 
+ RHPW    IP   0A   028 50.49                             100    0.5010 30.4  77 
+ RHPW     IAML A   028 50.49      23.6e4                               30.4  77 
+ RHPW    ES   0A   028 56.85                             100    0.8310 30.4  77 
+ LUEX    IP   0A   028 56.67                              62   -0.2810 58.1 246 
+ LUEX     IAML A   028 56.67     97181.6                               58.1 246 
+ LUEX    ES   0A   029  7.67                              62   -0.3210 58.1 246 
+ DQYH    IP   0A   029  1.67                              47    0.4510 77.7 307 
+ DQYH     IAML A   029  1.67     68667.5                               77.7 307 
+ DQYH    ES   0A   029 16.45                              47    1.1210 77.7 307 
+ DNOA     IAML A   029  2.54     60539.9                               83.6  71 
+ DNOA    IP   0A   029  2.54                              47    0.1410 83.6  71 
+ DNOA    ES   0A   029 17.96                              47    0.6010 83.6  71 
+ VOCA     IAML A   029  6.24     40473.3                                110  53 
+ VOCA    IP   0A   029  6.24                              33   -0.5410  110  53 
+ VOCA    ES   0A   029 24.45                              33   -0.4610  110  53 
+ APSL     IAML A   029  6.75     37885.9                                113  86 
+ APSL    IP   0A   029  6.75                              33   -0.4810  113  86 
+ APSL    ES   0A   029 25.32                              33   -0.3510  113  86 
+                                                                                
+ 2020  1 1 0030 44.3 L  33.810  52.638 23.6  New  7 1.2 0.8LNew                1
+ GAP=184        2.77      10.1     6.6 19.8 -0.2107E+02  0.8968E+01 -0.1086E+03E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003045     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX    IP   0A   030 58.79                              58   -0.0110 62.3 277 
+ LUEX     IAML A   030 58.79         5.5                               62.3 277 
+ LUEX    ES   0A   031  9.14                              58   -0.0810 62.3 277 
+ CBZA    IP   0A   031  2.28                              58    0.1010 82.3 255 
+ CBZA     IAML A   031  2.28         3.6                               82.3 255 
+ CBZA    ES   0A   031 15.25                              58    0.2110 82.3 255 
+ DQYH    IP   0A   031  6.43                              49    0.7910  105 318 
+ DQYH     IAML A   031  6.43         2.6                                105 318 
+ DQYH    ES   0A   031 22.50                              49    1.5110  105 318 
+ FOUH    IP   0A   031  6.84                              49    0.7910  108   7 
+ FOUH     IAML A   031  6.84         2.6                                108   7 
+ FOUH    ES   0A   031 23.26                              49    1.5610  108   7 
+ APSL     IAML A   031  6.15         2.4                                110  70 
+ APSL    IP   0A   031  6.15                              49   -0.3010  110  70 
+ APSL    ES   0A   031 22.02                              49   -0.3610  110  70 
+ RPKV     IAML A   031 15.19         1.1                                175 334 
+ RPKV    IP   0A   031 15.19                              49   -0.90 8  175 334 
+ RPKV    ES   0A   031 37.17                              49   -1.79 8  175 334 
+ HLUH     IAML A   031 16.51         1.0                                188 327 
+ HLUH    IP   0A   031 16.51                              49   -1.56 7  188 327 
+ HLUH    ES   0A   031 39.36                              49   -3.00 7  188 327 
+                                                                                
+ 2020  1 1 0032 47.0 L  33.860  52.675 19.6  New  7 0.3 3.7LNew                1
+ GAP=136        0.81       2.2     1.5  4.9 -0.5813E+00 -0.2209E+01 -0.5008E+00E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003248     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LUEX    IP   0A   033  2.37                              58   -0.0710 65.3 272 
+ LUEX     IAML A   033  2.37      4768.2                               65.3 272 
+ LUEX    ES   0A   033 13.15                              58   -0.3910 65.3 272 
+ DNOA    IP   0A   033  5.66                              58   -0.0610 84.7  52 
+ DNOA     IAML A   033  5.66      3443.4                               84.7  52 
+ DNOA    ES   0A   033 18.90                              58   -0.2810 84.7  52 
+ CBZA    IP   0A   033  6.26                              58    0.1210 87.2 252 
+ CBZA     IAML A   033  6.26      3063.1                               87.2 252 
+ CBZA    ES   0A   033 19.96                              58    0.0610 87.2 252 
+ MGUS     IAML A   033  8.53      2496.5                                101  95 
+ MGUS    IP   0A   033  8.53                              49    0.2210  101  95 
+ MGUS    ES   0A   033 23.93                              49    0.2910  101  95 
+ FOUH    IP   0A   033  8.72                              49    0.3010  102   5 
+ FOUH     IAML A   033  8.72      2677.8                                102   5 
+ FOUH    ES   0A   033 24.29                              49    0.4710  102   5 
+ APSL    IP   0A   033  8.63                              49   -0.3110  105  72 
+ APSL     IAML A   033  8.63      2406.9                                105  72 
+ APSL    ES   0A   033 24.10                              49   -0.6210  105  72 
+ RAWC    IP   0A   033 10.07                              49    0.1110  112 115 
+ RAWC     IAML A   033 10.07      2074.6                                112 115 
+ RAWC    ES   0A   033 26.63                              49    0.1610  112 115 
+                                                                                
+ 2020  1 1 0034 49.1 L  33.571  52.658 58.5  New  7 1.2 3.7LNew                1
+ GAP=175        2.67       9.5     6.9 24.4  0.1629E+02 -0.2484E+02  0.1425E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003451     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   035  6.25                             122    0.8810 66.8  17 
+ RHPW     IAML A   035  6.25      3743.3                               66.8  17 
+ RHPW    ES   0A   035 17.69                             122    0.6410 66.8  17 
+ LUEX    IP   0A   035  5.81                             120   -0.2510 72.2 298 
+ LUEX     IAML A   035  5.81      3251.5                               72.2 298 
+ LUEX    ES   0A   035 16.91                             120   -1.3210 72.2 298 
+ CBZA    IP   0A   035  7.55                             116    0.2910 81.4 273 
+ CBZA     IAML A   035  7.55      2729.0                               81.4 273 
+ CBZA    ES   0A   035 19.96                             116   -0.3510 81.4 273 
+ AVTK    IP   0A   035  9.03                             114    0.6410 89.7 307 
+ AVTK     IAML A   035  9.03      2379.9                               89.7 307 
+ AVTK    ES   0A   035 22.55                             114    0.3010 89.7 307 
+ RAWC     IAML A   035 10.47      1959.2                                104  99 
+ RAWC    IP   0A   035 10.47                             110    0.1010  104  99 
+ RAWC    ES   0A   035 25.06                             110   -0.6010  104  99 
+ DQYH     IAML A   035 14.57      1389.8                                127 325 
+ DQYH    IP   0A   035 14.57                             106    0.9610  127 325 
+ DQYH    ES   0A   035 32.24                             106    1.0210  127 325 
+ QYDI     IAML A   035 23.77       580.0                                206 351 
+ QYDI    IP   0A   035 23.77                              99   -1.36 7  206 351 
+ QYDI    ES   0A   035 46.94                              99   -4.09 7  206 351 
+                                                                                
+ 2020  1 1 0036 54.0 L  33.983  52.697 29.5  New  7 0.5 1.2LNew                1
+ GAP=201        1.27       3.8     4.5  3.9 -0.9679E+01  0.7101E+01  0.8494E+00E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003654     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ RHPW    IP   0A   037  2.01                             128   -0.4010 24.0  40 
+ RHPW     IAML A   037  2.01        40.4                               24.0  40 
+ RHPW    ES   0A   037  8.02                             128   -0.4710 24.0  40 
+ XBVK    IP   0A   037  4.90                             110    0.3710 38.3 359 
+ XBVK     IAML A   037  4.90        22.0                               38.3 359 
+ XBVK    ES   0A   037 13.07                             110    0.9410 38.3 359 
+ LUEX    IP   0A   037  9.07                              62   -0.3110 68.4 260 
+ LUEX     IAML A   037  9.07        10.5                               68.4 260 
+ LUEX    ES   0A   037 20.38                              62   -0.0910 68.4 260 
+ CBZA    IP   0A   037 13.25                              62    0.0210 94.2 244 
+ CBZA     IAML A   037 13.25         6.7                               94.2 244 
+ CBZA    ES   0A   037 27.69                              62    0.5910 94.2 244 
+ VOCA     IAML A   037 15.09         5.5                                107  43 
+ VOCA    IP   0A   037 15.09                              62    0.0110  107  43 
+ VOCA    ES   0A   037 30.91                              62    0.6310  107  43 
+ QYDI    IP   0A   037 22.66                              62   -0.58 9  161 348 
+ QYDI    ES   0A   037 43.45                              62   -0.86 9  161 348 
+ RPKV     IAML A   037 22.94         2.7                                161 329 
+ RPKV    IP   0A   037 22.94                              62   -0.19 9  161 329 
+ RPKV    ES   0A   037 44.07                              62   -0.06 9  161 329 
+ QYDI     IAML A   037 22.66         2.7                                161 348 
+                                                                                
+ 2020  1 1 0038 56.1 L  33.596  52.348 14.8  New  7 0.8 0.5LNew                1
+ GAP=174        1.99       6.1     4.0  9.0  0.4662E+01 -0.1560E+02 -0.1891E+02E
+ Action:ARG 23-12-09 18:57 OP:OBSP STATUS:               ID:20200101003857     I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ CBZA    IP   0A   039  9.44                              56    0.1510 52.5 272 
+ CBZA     IAML A   039  9.44         3.9                               52.5 272 
+ CBZA    ES   0A   039 18.77                              56   -0.0010 52.5 272 
+ AVTK    IP   0A   039 11.85                              56   -0.2510 66.6 319 
+ AVTK     IAML A   039 11.85         3.1                               66.6 319 
+ AVTK    ES   0A   039 22.99                              56   -0.6010 66.6 319 
+ RHPW    IP   0A   039 15.02                              45    0.8110 77.7  38 
+ RHPW     IAML A   039 15.02         2.4                               77.7  38 
+ RHPW    ES   0A   039 28.53                              45    1.3010 77.7  38 
+ DQYH    IP   0A   039 19.90                              38    0.4010  110 337 
+ DQYH     IAML A   039 19.90         1.4                                110 337 
+ DQYH    ES   0A   039 37.07                              38    0.7510  110 337 
+ DNOA     IAML A   039 21.79         1.1                                127  50 
+ DNOA    IP   0A   039 21.79                              38   -0.1610  127  50 
+ DNOA    ES   0A   039 40.35                              38   -0.1910  127  50 
+ RAWC     IAML A   039 22.89         1.0                                133  98 
+ RAWC    IP   0A   039 22.89                              38    0.0210  133  98 
+ RAWC    ES   0A   039 42.31                              38    0.1910  133  98 
+ VOCA     IAML A   039 25.72         0.7                                160  41 
+ VOCA    IP   0A   039 25.72                              38   -1.21 9  160  41 
+ VOCA    ES   0A   039 47.15                              38   -1.96 9  160  41 
+                                                                                

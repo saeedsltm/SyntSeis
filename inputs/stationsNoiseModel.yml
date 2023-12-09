@@ -1,0 +1,90 @@
+APSL:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+AVTK:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+CBZA:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+DNOA:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+DQYH:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+FOUH:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+HLUH:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+LUEX:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+MGUS:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+QYDI:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+RAWC:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+RHPW:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+RPKV:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+VOCA:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
+XBVK:
+  S_P_Error: 1.0
+  probabilityOfOccurrence: 1.0
+  siteNoiseLevel:
+  - 0.0
+  - 0.0
